@@ -1,0 +1,4 @@
+listing_id,status,year,make,model,trim,body,drivetrain,transmission,mileage,options_score,accident,cpo,seller_dealer,lat,lon,price,list_date,sold_date,dom,distance_km
+EX123,active,2018,Chevrolet,Silverado 1500,LT,Crew Cab,RWD,Automatic,114057,3,0,0,1,35.479,-79.18,23998,2025-10-15,,22,
+EX124,sold,2018,Chevrolet,Silverado 1500,LT,Crew Cab,RWD,Automatic,146013,2,0,0,1,35.227,-80.843,23787,2025-09-28,2025-10-20,22,
+EX125,active,2018,Chevrolet,Silverado 1500,LT,Crew Cab,4WD,Automatic,102212,4,0,0,1,27.951,-82.457,20628,2025-10-25,,12,
